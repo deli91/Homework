@@ -11,6 +11,9 @@ DB_stock = getPrices(date_start, date_end, Tickersymb) ;
 %% Transform into percentage logarithmic returns
 % calculate log-returns in terms of a continuously compounded rate
 
+perclog(DB_stock) ;
+
+%%
 
 
 
