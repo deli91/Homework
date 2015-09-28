@@ -1,2 +1,2 @@
 # Homework
-Garch_fattails_portfolioselection
+Homework - Garch - Fat tails - Portfolio selection
